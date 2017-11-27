@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TESIS (V 1.0)</string>
+    <string name="TITULO">Bienvenido a la Aplicacion</string>
+    <string name="texto1">REGISTRARSE</string>
+    <string name="texto2">INICIAR SESION</string>
+    <string name="title_activity_iniciar_sesion">iniciar_sesion</string>
+</resources>
